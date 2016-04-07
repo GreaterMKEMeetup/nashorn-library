@@ -1,0 +1,1 @@
+return Handlebars.compile(template);
